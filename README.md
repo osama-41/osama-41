@@ -59,16 +59,6 @@ One shared KMP codebase (32 modules) runs a field-worker app and an admin app on
 
 ---
 
-### 📂 Public projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**kenzora**](https://github.com/osama-41/kenzora) | E-commerce app with onboarding, login and a product catalogue | Flutter · Bloc/Cubit · Freezed · GetIt · Retrofit |
-| [**patient-backend**](https://github.com/osama-41/patient-backend) | Drop-in REST backend for an Android app, running on the free tier | Cloudflare Workers · Hono · D1 · TypeScript |
-| [**android-achievements-mvvm**](https://github.com/osama-41/android-achievements-mvvm) | Multi-module Android app that lists achievements from an API | Kotlin · MVVM · Hilt · Retrofit · Coroutines |
-
----
-
 ### 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-osama--mustafa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-mustafa-588bb725b)
