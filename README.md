@@ -50,9 +50,11 @@ I'm a **Mobile & Full-Stack Developer** in Amman, Jordan. I build mobile apps en
 > These are private client and company projects, so the code isn't public.
 
 **🚗 Nextturn: UK driving-instructor marketplace** · *Main Developer* · Flutter, Node.js, MongoDB, Nuxt 3, Stripe
+
 Turned a single-school app into a multi-tenant marketplace where instructors run their own business and learners find, book and pay for lessons. I built most of the Flutter app and the Nuxt website, a large part of the Node.js API, and Stripe Connect payments with split payouts.
 
 **🧹 Affinity IFS: workforce management platform** · *Mobile & Full-Stack Developer* · Kotlin Multiplatform, Spring Boot, React
+
 One shared KMP codebase (32 modules) runs a field-worker app and an admin app on Android and iOS. I built geofenced clock in and out, real-time "Go Online" presence with push notifications, automatic clock-out when a worker leaves the site, and worker self-sign-up, across the backend, the app and the admin website.
 
 ---
@@ -69,6 +71,7 @@ One shared KMP codebase (32 modules) runs a field-worker app and an admin app on
 
 ### 📫 Get in touch
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-osama--mustafa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-mustafa-588bb725b)
 [![Email](https://img.shields.io/badge/Email-osama.mustafa352%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:osama.mustafa352@gmail.com)
 
 Open to mobile and full-stack roles, and always happy to talk about Kotlin Multiplatform.
