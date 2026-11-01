@@ -10,6 +10,8 @@ I'm a **Mobile & Full-Stack Developer** in Amman, Jordan. I build mobile apps en
 - 🚩 I ship new features behind feature flags and test them on staging first
 - 🤖 I use AI-assisted development to move faster, and review and test every change
 
+🌐 **Portfolio:** [osama-41.github.io](https://osama-41.github.io)
+
 ---
 
 ### 🛠️ Tech stack
@@ -61,7 +63,8 @@ One shared KMP codebase (32 modules) runs a field-worker app and an admin app on
 
 ### 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-osama--mustafa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-mustafa-588bb725b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-osama--41.github.io-10B981?style=flat-square&logo=googlechrome&logoColor=white)](https://osama-41.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-osama--mustafa1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-mustafa1)
 [![Email](https://img.shields.io/badge/Email-osama.mustafa352%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:osama.mustafa352@gmail.com)
 
 Open to mobile and full-stack roles, and always happy to talk about Kotlin Multiplatform.
