@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="Osama Mustafa · Mobile & Full-Stack Developer" width="100%" />
+<img src="./assets/banner.png" alt="Osama Mustafa · Mobile & Full-Stack Developer · From first commit to five-star release" width="100%" />
 
 ## Hi, I'm Osama 👋
 
