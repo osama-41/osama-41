@@ -2,11 +2,10 @@
 
 ## Hi, I'm Osama 👋
 
-I'm a **Mobile & Full-Stack Developer** in Amman, Jordan. I build mobile apps end to end: the Android and iOS app, the API behind it, the admin tools around it, and the tests that keep it all working. I also build **AI / LLM products**: real-time apps that combine speech-to-text with streaming Claude answers.
+I'm a **Mobile & Full-Stack Developer** in Amman, Jordan. I build mobile apps end to end: the Android and iOS app, the API behind it, the admin tools around it, and the tests that keep it all working. I also have hands-on knowledge of **AI, LLMs and AI agents**.
 
 - 📱 Working mainly with **Kotlin Multiplatform**, **Jetpack Compose** and **Flutter**
-- 🧠 LLM apps with **Claude** (Messages API, Claude Code CLI in headless stream-json mode), prompts grounded in real data, low-latency streaming
-- 🎙️ On-device speech and ML: **whisper.cpp** on the GPU, Silero VAD, **ONNX Runtime** models for turn-end detection and voice prints
+- 🧠 AI & LLMs: prompt engineering, LLM APIs (**Claude**, OpenAI), streaming and structured output, RAG and grounding
 - 🤖 Agentic engineering: my own **Claude Code harness** with rules, skills, hooks, subagents, **MCP** tools and persistent memory
 - 🧩 Clean Architecture, MVI / MVVM, multi-module projects
 - 🧪 QA background: I write unit, UI, integration and end-to-end tests as I build, including for AI-written code
@@ -42,12 +41,7 @@ I'm a **Mobile & Full-Stack Developer** in Amman, Jordan. I build mobile apps en
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Whisper](https://img.shields.io/badge/whisper.cpp-412991?style=flat-square&logo=openai&logoColor=white)
-![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri_2-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 
 **Testing & Tools**
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
@@ -63,14 +57,6 @@ I'm a **Mobile & Full-Stack Developer** in Amman, Jordan. I build mobile apps en
 ### 💼 Work highlights
 
 > These are private client and company projects, so the code isn't public.
-
-**🎙️ Meeting Copilot: real-time AI meeting and interview-practice assistant** · *Co-Developer* · Tauri 2, Rust, React, Claude, whisper.cpp, ONNX
-
-A desktop copilot that listens to both sides of a call on your own PC, in Arabic and English, and uses Claude to give live notes, questions worth asking before the meeting ends, and short answers you can say out loud. No bot joins the call, and no audio is saved. I worked on the GPU speech-to-text pipeline (whisper.cpp with VAD, repeat-loop and invented-text fixes, Jordanian Arabic, priming with names from the company brief), on answers grounded in the user's CV so they never claim experience you don't have, and on warm stream-json Claude sessions that cut time to first words from 4.2 s to 3.2 s. I also did the Apple Silicon macOS port and shipped releases v0.3 to v0.7.
-
-**🗣️ AI Interview Copilot: bilingual speech-to-answer web app** · *Contributor* · Next.js 15, Fastify, Claude, whisper.cpp, onnxruntime-web
-
-Local GPU speech-to-text, telling the interviewer apart from the candidate with in-browser voice prints and turn-end detection, early answers drafted from partial transcripts, and answers in both English and Arabic with full RTL.
 
 **🚗 Nextturn: UK driving-instructor marketplace** · *Main Developer* · Flutter, Node.js, MongoDB, Nuxt 3, Stripe
 
